@@ -1,0 +1,1 @@
+"C:\Program Files\Unity\Hub\Editor\2019.2.14f1\Editor\Unity.exe" -projectPath ".\"
