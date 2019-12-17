@@ -593,7 +593,7 @@ VideoPlayer:
   m_GameObject: {fileID: 484162780}
   m_Enabled: 1
   m_VideoClip: {fileID: 0}
-  m_TargetCameraAlpha: 0.2
+  m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 534669904}
   m_TargetTexture: {fileID: 0}
@@ -608,7 +608,7 @@ VideoPlayer:
   m_TargetAudioSources:
   - {fileID: 0}
   m_DirectAudioVolumes:
-  - 0.078
+  - 1
   m_Url: 
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
@@ -1098,7 +1098,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1166095363}
   m_HandleRect: {fileID: 1166095362}
   m_Direction: 0
-  m_Value: 1
+  m_Value: 0
   m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -2147,7 +2147,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 01
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1d829f9ff3665e34e8cbd239b1a49087, type: 2}
   m_sharedMaterial: {fileID: 3223687350324066371, guid: 1d829f9ff3665e34e8cbd239b1a49087,
@@ -2224,7 +2224,7 @@ MonoBehaviour:
     linkCount: 0
     lineCount: 0
     pageCount: 0
-    materialCount: 2
+    materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_spriteAnimator: {fileID: 0}
